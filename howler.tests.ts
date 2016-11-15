@@ -1,3 +1,5 @@
+// Adapted from: https://github.com/goldfire/howler.js/blob/master/tests/js/core.webaudio.js
+
 import {Howl} from 'howler'
 
 // Cache the label for later use.
